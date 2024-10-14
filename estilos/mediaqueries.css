@@ -15,6 +15,7 @@ Grandes telas: acima de 1200px
     }
     #login {
         width: 80dvw;
+        height: 350px;
     }
     #login > #imagem {
         float: left;
@@ -33,6 +34,7 @@ Grandes telas: acima de 1200px
     }
     #login {
         width: 950px;
+        400px
     }
     #login > #imagem {
         float: right;
